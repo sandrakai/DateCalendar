@@ -4,7 +4,7 @@ public class Formulario {
     public static void main(String[] args) {
 
        // String pedirFecha = JOptionPane.showInputDialog(null, "Introduce el día", "INTRODUCIR FECHA", JOptionPane.INFORMATION_MESSAGE);
-
+//Más
         JPanel panel = new JPanel();
         JLabel textoDia = new JLabel("Día");
         JLabel textoMes = new JLabel("Mes");
